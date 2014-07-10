@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<translator name="ArcGIS 2 EML" xslt="Transforms\fgdc-eml2.1.xsl" logLevel="error" stopOnErrors="no">
+	<!-- empty -->
+</translator>
