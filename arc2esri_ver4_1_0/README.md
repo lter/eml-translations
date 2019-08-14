@@ -1,5 +1,9 @@
 Last updated: Mon, 03/04/2013 - 5:50pm
 
+This was uploaded from the old im.lternet.edu website and is probably out of date.
+
+Comments from the old webpage: 
+
 February 26, 2013 version: Only tested with version 10.1 of ArcGIS.
 There are several files in the zip. The following are Instructions for using these files:
 
