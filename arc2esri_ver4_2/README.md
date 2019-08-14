@@ -1,10 +1,7 @@
-Last updated: Mon, 03/04/2013 - 5:50pm
+Last updated: Thu, 03/14/2013 - 10:56am
 
-February 26, 2013 version: Only tested with version 10.1 of ArcGIS.
-There are several files in the zip. The following are Instructions for using these files:
+Corrected problems with esri FGDC contact tags.
 
-You need to place the arcgisfgdc_test.xml file under the metadata\translator folder for you arcgis software.
-example: C:\Program Files (x86)\ArcGIS\Desktop10.1\Metadata\Translator
+March 14, 2013
 
-The arcgisfgdc_test.xsl file is place under the metadata\translator\transforms folder:
-example: C:\Program Files (x86)\ArcGIS\Desktop10.1\Metadata\Translator\Transforms
+Theresa Valentine
